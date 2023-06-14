@@ -1,0 +1,38 @@
+body {
+	margin: 0;
+	padding: 0;
+	background-color: #ddd;
+}
+
+.page-container {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	text-align: center;
+}
+
+.tabla {
+	position: relative;
+	margin: 0 auto;
+	margin-bottom: 30px;
+	box-shadow: 6px 6px 10px #0006;
+}
+
+table {
+	border: 2px solid;
+}
+
+td {
+	height: 40px;
+	width: 40px;
+	border: 1px solid;
+	border-color: #444;
+}
+
+.alb {
+	background-color: #fff;
+}
+
+.negru {
+	background-color: #000;
+}
